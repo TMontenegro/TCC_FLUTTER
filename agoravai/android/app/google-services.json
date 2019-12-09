@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652123608692",
+    "firebase_url": "https://tccflutter-62e2b.firebaseio.com",
+    "project_id": "tccflutter-62e2b",
+    "storage_bucket": "tccflutter-62e2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652123608692:android:4aa5e3abf1f81afc10e321",
+        "android_client_info": {
+          "package_name": "com.example.agoravai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652123608692-cj9a4c8uqphc1emict8l586i6olvmn40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi4NEM75WUr0usqw6c0amk9a90QLDhjTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652123608692-cj9a4c8uqphc1emict8l586i6olvmn40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
